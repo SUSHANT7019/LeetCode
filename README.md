@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SUSHANT7019/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SUSHANT7019/LeetCode/tree/master/0136-single-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SUSHANT7019/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SUSHANT7019/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/SUSHANT7019/LeetCode/tree/master/0709-to-lower-case) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SUSHANT7019/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/SUSHANT7019/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
