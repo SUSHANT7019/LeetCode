@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SUSHANT7019/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SUSHANT7019/LeetCode/tree/master/0136-single-number) |
 | [1920-build-array-from-permutation](https://github.com/SUSHANT7019/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SUSHANT7019/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SUSHANT7019/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SUSHANT7019/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/SUSHANT7019/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/SUSHANT7019/LeetCode/tree/master/0709-to-lower-case) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SUSHANT7019/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/SUSHANT7019/LeetCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SUSHANT7019/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/SUSHANT7019/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/SUSHANT7019/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SUSHANT7019/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/SUSHANT7019/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/SUSHANT7019/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
