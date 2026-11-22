@@ -5,6 +5,6 @@ public:
         if(s.contains("ba")){
         isAppeare = false;
         }
-    return isAppeare;
+        return isAppeare;
     }
 };
