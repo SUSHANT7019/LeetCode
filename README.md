@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/SUSHANT7019/LeetCode/tree/master/0709-to-lower-case) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SUSHANT7019/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SUSHANT7019/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3110-score-of-a-string](https://github.com/SUSHANT7019/LeetCode/tree/master/3110-score-of-a-string) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3668-restore-finishing-order](https://github.com/SUSHANT7019/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/SUSHANT7019/LeetCode/tree/master/3945-digit-frequency-score) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
