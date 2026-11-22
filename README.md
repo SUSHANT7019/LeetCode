@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/SUSHANT7019/LeetCode/tree/master/0709-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SUSHANT7019/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SUSHANT7019/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3110-score-of-a-string](https://github.com/SUSHANT7019/LeetCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SUSHANT7019/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
