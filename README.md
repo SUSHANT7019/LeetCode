@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SUSHANT7019/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SUSHANT7019/LeetCode/tree/master/0066-plus-one) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SUSHANT7019/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SUSHANT7019/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SUSHANT7019/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SUSHANT7019/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SUSHANT7019/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SUSHANT7019/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SUSHANT7019/LeetCode/tree/master/0136-single-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1920-build-array-from-permutation](https://github.com/SUSHANT7019/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SUSHANT7019/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SUSHANT7019/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -83,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
