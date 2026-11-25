@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SUSHANT7019/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SUSHANT7019/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/SUSHANT7019/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SUSHANT7019/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SUSHANT7019/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SUSHANT7019/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/SUSHANT7019/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/SUSHANT7019/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SUSHANT7019/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/SUSHANT7019/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SUSHANT7019/LeetCode/tree/master/0141-linked-list-cycle) |
 | [3668-restore-finishing-order](https://github.com/SUSHANT7019/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/SUSHANT7019/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Greedy
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SUSHANT7019/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SUSHANT7019/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
