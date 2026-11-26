@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SUSHANT7019/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SUSHANT7019/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SUSHANT7019/LeetCode/tree/master/0136-single-number) |
+| [0817-linked-list-components](https://github.com/SUSHANT7019/LeetCode/tree/master/0817-linked-list-components) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SUSHANT7019/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1920-build-array-from-permutation](https://github.com/SUSHANT7019/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SUSHANT7019/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SUSHANT7019/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SUSHANT7019/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SUSHANT7019/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0817-linked-list-components](https://github.com/SUSHANT7019/LeetCode/tree/master/0817-linked-list-components) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SUSHANT7019/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0817-linked-list-components](https://github.com/SUSHANT7019/LeetCode/tree/master/0817-linked-list-components) |
 | [3668-restore-finishing-order](https://github.com/SUSHANT7019/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/SUSHANT7019/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Greedy
