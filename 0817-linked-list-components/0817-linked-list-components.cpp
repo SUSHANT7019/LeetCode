@@ -11,7 +11,6 @@
 class Solution {
 public:
     int numComponents(ListNode* head, vector<int>& nums) {
-
         int count =0;
         unordered_set<int> s(nums.begin(), nums.end());
         bool isComponent = false;
@@ -20,7 +19,8 @@ public:
             if((s.contains(head->val))){       
                 if(!isComponent){ 
                 isComponent = true;
-                count ++;     }
+                count ++;
+                }
             }else{
                 isComponent = false;
             }
